@@ -1,2 +1,2 @@
 # Pnemonia-Detection-using-Android-App
-An android app that detects pnemonia from x-ray images. Made during Google Devfest Hackathon
+An android app that detects Pnemonia from X-Ray images of chest. Made during Google Devfest Hackathon
